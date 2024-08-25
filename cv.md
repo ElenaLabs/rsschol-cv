@@ -20,5 +20,4 @@ $b = 3;
 $c = $a+$b;
 ```
 * ## Education
-  + RS-School
 ![Logo](/logo-rsschool3.png)
